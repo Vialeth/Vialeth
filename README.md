@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Vialeth
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Machine Learning
+İsmet bu kafayı durduramıyorum.
 
 <!---
 Vialeth/Vialeth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
